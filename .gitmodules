@@ -1,3 +1,0 @@
-[submodule "attendance"]
-        path = attendance
-        url = https://github.com/sakaicontrib/attendance.git
