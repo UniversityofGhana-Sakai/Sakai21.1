@@ -1,0 +1,12 @@
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/cm/jobs/GhanaITSLecturerUpdateJob.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/dao/ITSCourseDaoImpl.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/TestGhanaITSIntegrationClient.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/dao/ITSLecturerDaoImpl.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/dao/ITSEnrollmentDaoImpl.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/cm/jobs/GhanaITSEnrollmentUpdateJob.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/cm/SISClient.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/dao/ITSUserDaoImpl.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/service/ITSIntegratorServiceImpl.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/cm/jobs/GhanaITSSyncJob.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/cm/jobs/GhanaITSCourseManagementJob.java
+/home/sakai/ghana-sakai-its-integrator/impl/src/main/java/coza/opencollab/sakai/impl/GhanaITSIntegrationClient.java

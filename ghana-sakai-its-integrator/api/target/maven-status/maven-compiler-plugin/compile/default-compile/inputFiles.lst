@@ -1,0 +1,9 @@
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/dao/ITSEnrollmentDao.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/service/ITSIntegratorService.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/dao/ITSCourseDao.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/model/ITSCourse.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/dao/ITSLecturerDao.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/model/ITSLecturer.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/model/ITSEnrollment.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/model/ITSUser.java
+/home/sakai/ghana-sakai-its-integrator/api/src/main/java/coza/opencollab/sakai/api/dao/ITSUserDao.java
