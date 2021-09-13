@@ -1,9 +1,0 @@
-coza/opencollab/sakai/api/model/ITSUser.class
-coza/opencollab/sakai/api/dao/ITSLecturerDao.class
-coza/opencollab/sakai/api/dao/ITSCourseDao.class
-coza/opencollab/sakai/api/model/ITSEnrollment.class
-coza/opencollab/sakai/api/service/ITSIntegratorService.class
-coza/opencollab/sakai/api/model/ITSCourse.class
-coza/opencollab/sakai/api/dao/ITSEnrollmentDao.class
-coza/opencollab/sakai/api/model/ITSLecturer.class
-coza/opencollab/sakai/api/dao/ITSUserDao.class

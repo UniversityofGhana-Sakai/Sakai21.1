@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.sakaiproject</groupId>
 		<artifactId>master</artifactId>
-		<version>19.3</version>
+		<version>21.1</version>
 		<relativePath>../master</relativePath>
 	</parent>
 
@@ -44,7 +44,7 @@
 	</build>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sakai.version>19.3</sakai.version>
+		<sakai.version>21.1</sakai.version>
 	</properties>
 
 	<dependencies>
