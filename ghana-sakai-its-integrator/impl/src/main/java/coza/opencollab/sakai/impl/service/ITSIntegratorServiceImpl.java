@@ -509,9 +509,9 @@ public class ITSIntegratorServiceImpl implements ITSIntegratorService, Applicati
 		//Get list of ITS lecturers staff numbers
 		List<String> itsStaffNumbers = siteLecturers.stream().map(lecturer -> Integer.toString(lecturer.getSTAFFNO()))
 				.collect(Collectors.toList());
-
+		
 		Map<Integer, ITSLecturer> itsUserMap = siteLecturers
-				.stream().collect(Collectors.toMap(ITSLecturer::getSTAFFNO, itsLecturer -> itsLecturer));
+				.stream().collect(Collectors.toMap(ITSLecturer::getSTAFFNO, itsLecturer -> itsLecturer, (existingValue, newValue) -> newValue));
 				
 		//Get all users in site with Instructor role
 		Set<String> instructors = site.getUsersHasRole(INSTRUCTOR_ROLE);
