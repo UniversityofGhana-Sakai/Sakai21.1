@@ -65,7 +65,9 @@
 					border:1px solid var(--sakai-border-color) !important;
 				}
 				.dropdown-menu a {
-					color:var(--sakai-text-color-1) !important;
+					//color:var(--sakai-text-color-1) !important;
+					color:var(--sakai-color-white) !important;
+					
 				}
 			} 
 		}
@@ -203,7 +205,8 @@
 			list-style: none;
 			font-size: 1em;
 			text-align: left;
-			background-color: var(--sakai-background-color-1);
+			//background-color: var(--sakai-background-color-1);
+			background-color: var(--sakai-ug-gold);
 			border: 1px solid var(--sakai-border-color);
 			border-radius: $button-radius;
 			box-shadow: var(--elevation-2dp);
@@ -254,7 +257,8 @@
 	/* SAK-32371 : Resources doesnt use font awesome icons */
 	.fa {
 		display : inline;
-		color : var(--button-text-color);
+		color : var(--sakai-ug-blue);
+		//color : var(--button-text-color);
 		text-decoration: none;
 	}
 	

@@ -18,7 +18,7 @@
 	#samigo-create-new-box, #samigo-create-import-box {
 		margin-bottom: $standard-spacing;
 		padding: $standard-spacing;
-		border: 1px solid var(--sakai-border-color);
+		border: 1px solid var(--sakai-ug-gold);
 		background: var(--sakai-background-color-2);
 
 		h2 {
@@ -251,11 +251,11 @@
 		}
 
 		thead tr th {
-			border-bottom: 1px solid var(--sakai-border-color);
+			border-bottom: 1px solid var(--sakai-ug-gold);
 		}
 
 		tr {
-			border-bottom: 1px solid var(--sakai-border-color);
+			border-bottom: 1px solid var(--sakai-ug-gold);
 		}
 
 		.extendedTime-user, .extendedTime-group {
@@ -422,7 +422,7 @@
 	.matrixTable {
 		border-style: dotted;
 		border-width: 1px;
-		border-color: var(--sakai-border-color);
+		border-color: var(--sakai-ug-gold);
 	}
 
 	#delivAssessmentWrapper {

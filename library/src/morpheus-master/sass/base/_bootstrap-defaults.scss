@@ -259,7 +259,8 @@ $input-group-addon-bg:           var(--sakai-background-color-2);
 //## Dropdown menu container and contents.
 
 //** Background for the dropdown menu.
-$dropdown-bg:                    var(--sakai-background-color-1);
+//$dropdown-bg:                    var(--sakai-background-color-1);
+$dropdown-bg:                    var(--sakai-ug-blue);
 //** Dropdown menu `border-color`.
 // $dropdown-border:                rgba(0,0,0,.15)
 //** Dropdown menu `border-color` **for IE8**.
@@ -283,7 +284,8 @@ $dropdown-link-active-bg:        var(--button-active-background);
 $dropdown-link-disabled-color:   var(--button-disabled-text-color);
 
 //** Text color for headers within dropdown menus.
-$dropdown-header-color:          var(--button-text-color);
+//$dropdown-header-color:          var(--button-text-color);
+$dropdown-header-color:          var(--sakai-ug-gold);
 
 //** Deprecated `$dropdown-caret-color` as of v3.1.0
 $dropdown-caret-color:           var(--button-text-color);

@@ -24,7 +24,7 @@ body.is-logged-out{
 }
 
 .#{$namespace}mainHeader{
-		border-bottom:1px solid var(--sakai-border-color);
+		border-bottom:1px solid var(--sakai-ug-gold);
 		position: relative;
 
 		.#{$namespace}headerLogo{
@@ -216,7 +216,8 @@ body.is-logged-out{
 
 .#{$namespace}topHeader{
 	background: var(--top-header-background);
-	color: var(--sakai-text-color-inverted);
+	//color: var(--sakai-text-color-inverted);
+	color: var(--sakai-ug-blue);
 	font-size: 1em;
 	height: auto;
 	width: 100%;
@@ -637,7 +638,8 @@ body.is-logged-out{
 		}
 
 		ul{
-			background-color: var(--tool-tab-background-color);
+			//background-color: var(--tool-tab-background-color);
+			background-color: var(--sakai-color-white);
 			text-align: left;
 			padding: 0 0 0 0;
 			margin: 0.48em 1em 0 0.9em;
@@ -1201,7 +1203,7 @@ body.is-logged-out #linkNav .#{$namespace}sitesNav__menuitem .#{$namespace}sites
 	top: 0em;
 	right: 0em;
 	width:2.5em;
-	border-left: 1px solid var(--sakai-border-color);
+	border-left: 1px solid var(--sakai-ug-gold);
 	padding: 0 9px;
 	outline: 0;
 	> div{

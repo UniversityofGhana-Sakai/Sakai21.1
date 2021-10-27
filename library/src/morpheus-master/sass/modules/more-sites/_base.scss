@@ -141,7 +141,8 @@ body.active-more-sites{
 		border: 1px solid var(--all-sites-tab-border-color);
 		border-bottom:  0;
 		margin: 0;
-		color: var(--all-sites-tab-text-color);
+		//color: var(--all-sites-tab-text-color);
+		color: var(--sakai-color-white);
 		background-color: var(--all-sites-tab-background-color);
 	}
 
